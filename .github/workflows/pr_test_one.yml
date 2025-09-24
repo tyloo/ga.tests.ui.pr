@@ -71,6 +71,7 @@ on:
         options:
           - 'ubuntu-latest'
           - 'ubuntu-22.04'
+          - 'self-hosted'
         default: 'ubuntu-latest'
       FAST_FAIL:
         type: boolean
